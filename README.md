@@ -1,3 +1,4 @@
-Go based presentations
- — — — — — — — — — — — 
-* [Golang Basics](https://go-talks.appspot.com/github.com/roca/GoPresentations/go-slides-example/sample.slide)
+* [Golang Basics](https://talks.godoc.org/github.com/roca/GoPresentations/go-slides-example/sample.slide)
+$ git add .
+$ git commit -m ‘First commit’
+$ git push origin master
