@@ -9,4 +9,4 @@ romel.campbell@regeneron.com
 .play hello/hello.go
 
 * Hello, world 2.0
-.play server/server.go
+.code server/server.go
