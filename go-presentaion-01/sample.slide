@@ -8,4 +8,5 @@ romel.campbell@regeneron.com
 .image Gopher.webp
 .play hello/hello.go
 
+* Hello, world 2.0
 .play server/server.go
