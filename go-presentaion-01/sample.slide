@@ -6,4 +6,6 @@ romel.campbell@regeneron.com
 
 * The Go programming language
 .image Gopher.webp
-.play hello.go
+.play hello/hello.go
+
+.play server/server.go
