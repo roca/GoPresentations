@@ -3,6 +3,7 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"net/http"
 )
 
@@ -13,6 +14,6 @@ func handler(w http.ResponseWriter, r *http.Request) {
 func main() {
 	err := http.ListenAndServe(":8081", http.HandlerFunc(handler))
 	if err != nil {
-		panic(err)
+		log.Fatal(err)
 	}
 }
