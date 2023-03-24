@@ -19,7 +19,7 @@ It is designed to be simple, efficient, and easy to learn, and it has gained pop
 * Why invent a new language? 
 - Older languages weren't designed for todays modern hardware, but modern software needs it:
 - We are now in a age of large scale, networked, multi-core computing
-.image images/iot.webp 425 700
+.background images/iot.webp 425 700
 
 * The problem
 Older languages are frustrating on a day-to-day basis
@@ -29,6 +29,7 @@ Older languages are frustrating on a day-to-day basis
   Edit-Compile-Run cycle takes far too long
   Type hierarchy can hurt as much as it helps
   Memory management can be difficult
+.html page1.html
 
 - Dynamic languages (Python, JavaScript) fix some issues but introduce others:
 
