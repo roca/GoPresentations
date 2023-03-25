@@ -8,8 +8,11 @@ romel.campbell@regeneron.com
 .image images/Gopher.webp
 .play hello/main.go
 
-* Hello, world 2.0
+*  HTTP server ?
 .play server/main.go
+
+* Multi threading made easy
+.play concurrency/main.go
 
 * Go is not so new (developed by Google in 2007)
 .html page4.html
