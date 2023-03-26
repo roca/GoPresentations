@@ -30,3 +30,17 @@ All the features of Go contribute to its primary benefit – stability. For exam
 
 * We're already using it 
 .html page8.html
+
+* awslogin command
+.code awslogin/main.go /^//START/,/^//END/
+.link https://ritscm.regeneron.com/projects/DEVOPS/repos/saml_aws/browse bitbucket Repo
+
+* Blackjack flowcell-preprocessor
+.code flowcell-preprocessor/main.go /^//START/,/^//END/
+.link https://ritscm.regeneron.com/projects/BLAC/repos/flowcell-preprocessor/browse bitbucket Repo
+
+* Romailer
+.code romailer/main.go /^//START/,/^//END/
+.link https://client-service-romailer.eksdev.aws.regeneron.com/ client frontend
+.link https://romailer-service-romailer.eksdev.aws.regeneron.com/swagger-ui/ back end api
+
