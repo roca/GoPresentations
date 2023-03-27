@@ -25,8 +25,7 @@ romel.campbell@regeneron.com
 .html page6.html
 
 * The solution
-- Go has the lighter feel of a scripting language but is compiled.
-All the features of Go contribute to its primary benefit – stability. For example, static typing promotes flexibility by not requiring the explicit initialization of variables. This plays into the prevention of runtime errors, improving runtime efficiency. 
+.html page7.html
 
 * We're already using it 
 .html page8.html
@@ -41,6 +40,12 @@ All the features of Go contribute to its primary benefit – stability. For exam
 
 * Romailer
 .code romailer/main.go /^//START/,/^//END/
-.link https://client-service-romailer.eksdev.aws.regeneron.com/ client frontend
-.link https://romailer-service-romailer.eksdev.aws.regeneron.com/swagger-ui/ back end api
+.link https://client-service-romailer.eksdev.aws.regeneron.com/ Repo: client frontend
+.link https://romailer-service-romailer.eksdev.aws.regeneron.com/swagger-ui/ Repo: backend api
 
+* AWS Lambda using Go
+.code aws-lambda/main.go
+.link https://ritscm.regeneron.com/projects/BENIC/repos/vpc/browse/eventbridge-demo Repo: eventbridge-demo
+
+* AWS Lambda using Go
+.html page9.html
