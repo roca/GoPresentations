@@ -32,16 +32,21 @@ romel.campbell@regeneron.com
 
 * awslogin command
 .code awslogin/main.go /^//START/,/^//END/
-.link https://ritscm.regeneron.com/projects/DEVOPS/repos/saml_aws/browse bitbucket Repo
+.link https://ritscm.regeneron.com/projects/DEVOPS/repos/saml_aws/browse Repo: awslogin
 
 * Blackjack flowcell-preprocessor
 .code flowcell-preprocessor/main.go /^//START/,/^//END/
-.link https://ritscm.regeneron.com/projects/BLAC/repos/flowcell-preprocessor/browse bitbucket Repo
+.link https://ritscm.regeneron.com/projects/BLAC/repos/flowcell-preprocessor/browse Repo: Blackjack
 
 * Romailer
 .code romailer/main.go /^//START/,/^//END/
 .link https://client-service-romailer.eksdev.aws.regeneron.com/ Repo: client frontend
 .link https://romailer-service-romailer.eksdev.aws.regeneron.com/swagger-ui/ Repo: backend api
+
+* ssp-serverless
+.code ssp-serverless/main.go /^//START/,/^//END/
+.link https://ritscm.regeneron.com/projects/SSP/repos/ssp-serverless/browse Repo: ssp-serverless
+
 
 * AWS Lambda using Go
 .code aws-lambda/main.go
