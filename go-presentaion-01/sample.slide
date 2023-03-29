@@ -1,14 +1,14 @@
-Go programming language presentation
+The Go programming language
 6 April 2023
 
 Romel Campbell
 romel.campbell@regeneron.com 
 
-* The Go programming language
+* Golang
 .image images/Gopher.webp
 .play hello/main.go
 
-*  HTTP server ?
+* HTTP server library built in
 .play server/main.go
 
 * Multi threading made easy
@@ -23,6 +23,8 @@ romel.campbell@regeneron.com
 
 * The problem: Older languages are frustrating on a day-to-day basis
 .html page6.html
+: Statically typed languages can potentially be more efficient than dynamically typed languages in terms of memory usage and performance because the type checking is done at compile-time rather than runtime. This means that the compiler can optimize the code more effectively and reduce the need for runtime checks and type conversions, which can improve performance and reduce memory usage.
+
 
 * Go has the lighter feel of a scripting language but is compiled.
 .html page7.html
@@ -54,3 +56,6 @@ romel.campbell@regeneron.com
 
 * AWS Lambda using Go
 .html page9.html
+
+* Looking forward
+.html page10.html

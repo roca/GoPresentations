@@ -1,1 +1,11 @@
 go 1.19
+
+use (
+	./go-presentaion-01/aws-lambda
+	./go-presentaion-01/awslogin
+	./go-presentaion-01/concurrency
+	./go-presentaion-01/flowcell-preprocessor
+	./go-presentaion-01/hello
+	./go-presentaion-01/romailer
+	./go-presentaion-01/server
+)
