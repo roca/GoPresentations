@@ -4,6 +4,10 @@ The Go programming language
 Romel Campbell
 romel.campbell@regeneron.com 
 
+* March 2023 Headline: Go enters TIOBE index top 10
+.link https://www.tiobe.com/tiobe-index/ TIOBE Index for March 2023
+- The index can be used to check whether your programming skills are still up to date or to make a strategic decision about what programming language should be adopted when starting to build a new software system.
+
 * Golang
 .image images/Gopher.webp
 .play hello/main.go
@@ -63,4 +67,5 @@ romel.campbell@regeneron.com
 * Conclusion
 - Go was created by Google to handle Google-sized problems.
 - It was created to enhance the effectiveness of its developers with its simple syntax.
+- Overall, Go is a lightweight language with powerful raw computation and handling of memory-heavy tasks. Features such as its garbage collectors and native goroutines make it easy for this language to stay speedy and achieve best-in-class Golang performance.
 - Go would make a great addition to our tech stack also.
