@@ -5,8 +5,7 @@ Romel Campbell
 romel.campbell@regeneron.com 
 
 * March 2023 Headline: Go enters TIOBE index top 10
-.link https://www.tiobe.com/tiobe-index/ TIOBE Index for March 2023
-- The index can be used to check whether your programming skills are still up to date or to make a strategic decision about what programming language should be adopted when starting to build a new software system.
+.html page2.html
 
 * Golang
 .image images/Gopher.webp
@@ -34,7 +33,7 @@ romel.campbell@regeneron.com
 .html page7.html
 
 * Go is here to stay
-.html page8.html
+.html page10.html
 
 * awslogin command
 .code awslogin/main.go /^//START/,/^//END/
@@ -59,14 +58,14 @@ romel.campbell@regeneron.com
 .link https://ritscm.regeneron.com/projects/BENIC/repos/vpc/browse/eventbridge-demo Repo: eventbridge-demo
 
 * AWS Lambda using Go
-.html page9.html
+.html page16.html
 
 * Looking forward
-.html page10.html
+.html page17.html
 
 * Conclusion
 - Go was created by Google to handle Google-sized problems.
 - It was created to enhance the effectiveness of its developers with its simple syntax.
 - Overall, Go is a lightweight language with powerful raw computation and handling of memory-heavy tasks. Features such as its garbage collectors and native goroutines make it easy for this language to stay speedy and achieve best-in-class Golang performance.
-- Go would make a great addition to our tech stack also.
+- Go would make a great addition to our tech stack.
 - Computer hardware has evolved, so must the languages developers use to manipulate them.
