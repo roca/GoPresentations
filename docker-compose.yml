@@ -1,0 +1,11 @@
+version: "2"
+
+services:
+
+  presenter:
+    image: mkboudreau/go-present:latest
+    ports:
+      - "3999:3999"
+    working_dir: /app
+    volumes:
+      - .:/app
