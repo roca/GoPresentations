@@ -3,7 +3,11 @@ version: "2"
 services:
 
   presenter:
-    image: mkboudreau/go-present:latest
+    container_name: presenter
+    #image: mkboudreau/go-present:latest
+    build:
+      context: .
+      dockerfile: ./Dockerfile
     ports:
       - "3999:3999"
     working_dir: /app
