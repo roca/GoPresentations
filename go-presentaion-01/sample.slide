@@ -38,6 +38,7 @@ romel.campbell@regeneron.com
 * awslogin command
 .code awslogin/main.go /^//START/,/^//END/
 .link https://ritscm.regeneron.com/projects/DEVOPS/repos/saml_aws/browse Repo: awslogin
+.link https://confluence.regeneron.com/pages/viewpage.action?pageId=93647670 Confluence page
 
 * Blackjack flowcell-preprocessor
 .code flowcell-preprocessor/main.go /^//START/,/^//END/
@@ -51,6 +52,7 @@ romel.campbell@regeneron.com
 * ssp-serverless
 .code ssp-serverless/main.go /^//START/,/^//END/
 .link https://ritscm.regeneron.com/projects/SSP/repos/ssp-serverless/browse Repo: ssp-serverless
+.link https://confluence.regeneron.com/display/INFOTECH/How+to+create+SSP+folder+scaffolding+for+new+server-less+projects Confluence page
 
 
 * AWS Lambda using Go
