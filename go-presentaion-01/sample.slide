@@ -1,5 +1,5 @@
 The Go programming language
-6 April 2023
+20 April 2023
 
 Romel Campbell
 romel.campbell@regeneron.com 
@@ -15,7 +15,8 @@ romel.campbell@regeneron.com
 .play server/main.go
 
 * Multi threading made easy
-.play concurrency/main.go
+.play concurrency/main.go /^//START/,/^//END/
+.link https://www.youtube.com/watch?v=f6kdp27TYZs Google I/O 2012 - Go Concurrency Patterns by Rob Pike
 
 * Go is not so new (developed by Google in 2007)
 .html page4.html
@@ -23,6 +24,7 @@ romel.campbell@regeneron.com
 * Why invent a new language?
 .html page5.html
 .image images/iot.png
+.link https://www.youtube.com/watch?v=VoS7DsT1rdM First GopherCon 2014 Opening Keynote by Rob Pike
 
 * The problem: Older languages are frustrating on a day-to-day basis
 .html page6.html
@@ -69,7 +71,7 @@ romel.campbell@regeneron.com
 .html page18.html
 
 * Desktop App Demo: Markdown Editor
-.code desktop-apps/main.go
+.image images/icon.png
 
 * Ardan Labs
 - High-Performance Software Consulting, Training, Staffing, & Development
